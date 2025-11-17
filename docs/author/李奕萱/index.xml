@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>李奕萱 | 清华大学先进计算技术与系统实验室</title>
+    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/author/%E6%9D%8E%E5%A5%95%E8%90%B1/</link>
+      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/author/%E6%9D%8E%E5%A5%95%E8%90%B1/index.xml" rel="self" type="application/rss+xml" />
+    <description>李奕萱</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language>
+    <image>
+      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/author/%E6%9D%8E%E5%A5%95%E8%90%B1/avatar_hu_37d2e5f45cca8943.jpg</url>
+      <title>李奕萱</title>
+      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/author/%E6%9D%8E%E5%A5%95%E8%90%B1/</link>
+    </image>
+    
+  </channel>
+</rss>

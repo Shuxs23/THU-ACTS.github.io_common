@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>董枢楠 | 清华大学先进计算技术与系统实验室</title>
+    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/author/%E8%91%A3%E6%9E%A2%E6%A5%A0/</link>
+      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/author/%E8%91%A3%E6%9E%A2%E6%A5%A0/index.xml" rel="self" type="application/rss+xml" />
+    <description>董枢楠</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language>
+    <image>
+      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/author/%E8%91%A3%E6%9E%A2%E6%A5%A0/avatar_hu_9814fb4b4d859517.jpg</url>
+      <title>董枢楠</title>
+      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/author/%E8%91%A3%E6%9E%A2%E6%A5%A0/</link>
+    </image>
+    
+  </channel>
+</rss>

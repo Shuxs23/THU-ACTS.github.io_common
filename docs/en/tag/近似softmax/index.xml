@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>近似Softmax | THU-ACTS</title>
+    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/tag/%E8%BF%91%E4%BC%BCsoftmax/</link>
+      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/tag/%E8%BF%91%E4%BC%BCsoftmax/index.xml" rel="self" type="application/rss+xml" />
+    <description>近似Softmax</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/media/icon_hu_b93b6deb77ad4b76.png</url>
+      <title>近似Softmax</title>
+      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/tag/%E8%BF%91%E4%BC%BCsoftmax/</link>
+    </image>
+    
+    <item>
+      <title>Exploring Approximation and Dataflow Co-Optimization for Scalable Transformer Inference Architecture on the Edge (SOCC2024)</title>
+      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/publication/socc2024/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/publication/socc2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

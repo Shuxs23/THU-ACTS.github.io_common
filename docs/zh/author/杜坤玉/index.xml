@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杜坤玉 | 清华大学先进计算技术与系统实验室</title>
+    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E6%9D%9C%E5%9D%A4%E7%8E%89/</link>
+      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E6%9D%9C%E5%9D%A4%E7%8E%89/index.xml" rel="self" type="application/rss+xml" />
+    <description>杜坤玉</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language>
+    <image>
+      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E6%9D%9C%E5%9D%A4%E7%8E%89/avatar_hu_63ca0b1dbf0b5183.jpg</url>
+      <title>杜坤玉</title>
+      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E6%9D%9C%E5%9D%A4%E7%8E%89/</link>
+    </image>
+    
+  </channel>
+</rss>
