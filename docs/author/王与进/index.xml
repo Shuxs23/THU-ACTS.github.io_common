@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>王与进 | 清华大学先进计算技术与系统实验室</title>
+    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/author/%E7%8E%8B%E4%B8%8E%E8%BF%9B/</link>
+      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/author/%E7%8E%8B%E4%B8%8E%E8%BF%9B/index.xml" rel="self" type="application/rss+xml" />
+    <description>王与进</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/author/%E7%8E%8B%E4%B8%8E%E8%BF%9B/avatar_hu_a9783cc7d04a77bf.jpg</url>
+      <title>王与进</title>
+      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/author/%E7%8E%8B%E4%B8%8E%E8%BF%9B/</link>
+    </image>
+    
+    <item>
+      <title>A Unified Microrobotic Visual-Perception Processor with 62.2-FPS/mm2 and 103-uJ/frame Navigation in 28nm (ASSCC2024)</title>
+      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/publication/asscc2024/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/publication/asscc2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Approximation and Dataflow Co-Optimization for Scalable Transformer Inference Architecture on the Edge (SOCC2024)</title>
+      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/publication/socc2024/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/publication/socc2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

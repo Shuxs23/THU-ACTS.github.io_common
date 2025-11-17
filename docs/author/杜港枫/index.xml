@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杜港枫 | 清华大学先进计算技术与系统实验室</title>
+    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/author/%E6%9D%9C%E6%B8%AF%E6%9E%AB/</link>
+      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/author/%E6%9D%9C%E6%B8%AF%E6%9E%AB/index.xml" rel="self" type="application/rss+xml" />
+    <description>杜港枫</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language>
+    <image>
+      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/author/%E6%9D%9C%E6%B8%AF%E6%9E%AB/avatar_hu_61e331ed8f402139.jpg</url>
+      <title>杜港枫</title>
+      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/author/%E6%9D%9C%E6%B8%AF%E6%9E%AB/</link>
+    </image>
+    
+    <item>
+      <title>同态计算加速</title>
+      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/field/homomorphiccomputation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/field/homomorphiccomputation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>彭程 | 清华大学先进计算技术与系统实验室</title>
+    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E5%BD%AD%E7%A8%8B/</link>
+      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E5%BD%AD%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <description>彭程</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language>
+    <image>
+      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E5%BD%AD%E7%A8%8B/avatar_hu_98309ea67933291a.jpg</url>
+      <title>彭程</title>
+      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E5%BD%AD%E7%A8%8B/</link>
+    </image>
+    
+  </channel>
+</rss>
