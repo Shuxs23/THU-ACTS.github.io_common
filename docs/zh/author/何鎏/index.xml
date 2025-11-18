@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>何鎏 | 清华大学先进计算技术与系统实验室</title>
-    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E4%BD%95%E9%8E%8F/</link>
-      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E4%BD%95%E9%8E%8F/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/author/%E4%BD%95%E9%8E%8F/</link>
+      <atom:link href="https://shuxs23.github.io/THU-ACTS.github.io_common/zh/author/%E4%BD%95%E9%8E%8F/index.xml" rel="self" type="application/rss+xml" />
     <description>何鎏</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language><lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E4%BD%95%E9%8E%8F/avatar_hu_6498c249e7fee847.jpg</url>
+      <url>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/author/%E4%BD%95%E9%8E%8F/avatar_hu_6498c249e7fee847.jpg</url>
       <title>何鎏</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E4%BD%95%E9%8E%8F/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/author/%E4%BD%95%E9%8E%8F/</link>
     </image>
     
     <item>
       <title>Exploring Approximation and Dataflow Co-Optimization for Scalable Transformer Inference Architecture on the Edge (SOCC2024)</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/publication/socc2024/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/publication/socc2024/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/publication/socc2024/</guid>
+      <guid>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/publication/socc2024/</guid>
       <description></description>
     </item>
     

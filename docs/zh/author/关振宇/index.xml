@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>关振宇 | 清华大学先进计算技术与系统实验室</title>
-    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E5%85%B3%E6%8C%AF%E5%AE%87/</link>
-      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E5%85%B3%E6%8C%AF%E5%AE%87/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/author/%E5%85%B3%E6%8C%AF%E5%AE%87/</link>
+      <atom:link href="https://shuxs23.github.io/THU-ACTS.github.io_common/zh/author/%E5%85%B3%E6%8C%AF%E5%AE%87/index.xml" rel="self" type="application/rss+xml" />
     <description>关振宇</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/media/icon_hu_b93b6deb77ad4b76.png</url>
+      <url>https://shuxs23.github.io/THU-ACTS.github.io_common/media/icon_hu_b93b6deb77ad4b76.png</url>
       <title>关振宇</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E5%85%B3%E6%8C%AF%E5%AE%87/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/author/%E5%85%B3%E6%8C%AF%E5%AE%87/</link>
     </image>
     
     <item>
       <title>An eDRAM-Based In-Situ-Computing Processor for Homomorphic Encryption Evaluation on the Edge (ESSERC2024)</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/publication/esserc2024/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/publication/esserc2024/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/publication/esserc2024/</guid>
+      <guid>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/publication/esserc2024/</guid>
       <description></description>
     </item>
     

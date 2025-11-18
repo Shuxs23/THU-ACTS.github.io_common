@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | 清华大学先进计算技术与系统实验室</title>
-    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/publication_types/</link>
-      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/publication_types/</link>
+      <atom:link href="https://shuxs23.github.io/THU-ACTS.github.io_common/zh/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/media/icon_hu_b93b6deb77ad4b76.png</url>
+      <url>https://shuxs23.github.io/THU-ACTS.github.io_common/media/icon_hu_b93b6deb77ad4b76.png</url>
       <title>Publication_types</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/publication_types/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/publication_types/</link>
     </image>
     
   </channel>

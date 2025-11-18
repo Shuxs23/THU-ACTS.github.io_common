@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>何以凡 | THU-ACTS</title>
-    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/author/%E4%BD%95%E4%BB%A5%E5%87%A1/</link>
-      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/author/%E4%BD%95%E4%BB%A5%E5%87%A1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shuxs23.github.io/THU-ACTS.github.io_common/en/author/%E4%BD%95%E4%BB%A5%E5%87%A1/</link>
+      <atom:link href="https://shuxs23.github.io/THU-ACTS.github.io_common/en/author/%E4%BD%95%E4%BB%A5%E5%87%A1/index.xml" rel="self" type="application/rss+xml" />
     <description>何以凡</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/media/icon_hu_b93b6deb77ad4b76.png</url>
+      <url>https://shuxs23.github.io/THU-ACTS.github.io_common/media/icon_hu_b93b6deb77ad4b76.png</url>
       <title>何以凡</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/author/%E4%BD%95%E4%BB%A5%E5%87%A1/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/en/author/%E4%BD%95%E4%BB%A5%E5%87%A1/</link>
     </image>
     
     <item>
       <title>An eDRAM-Based In-Situ-Computing Processor for Homomorphic Encryption Evaluation on the Edge (ESSERC2024)</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/publication/esserc2024/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/en/publication/esserc2024/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/publication/esserc2024/</guid>
+      <guid>https://shuxs23.github.io/THU-ACTS.github.io_common/en/publication/esserc2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Unified Microrobotic Visual-Perception Processor with 62.2-FPS/mm2 and 103-uJ/frame Navigation in 28nm (ASSCC2024)</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/publication/asscc2024/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/en/publication/asscc2024/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/publication/asscc2024/</guid>
+      <guid>https://shuxs23.github.io/THU-ACTS.github.io_common/en/publication/asscc2024/</guid>
       <description></description>
     </item>
     

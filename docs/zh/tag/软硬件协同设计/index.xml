@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>软硬件协同设计 | 清华大学先进计算技术与系统实验室</title>
-    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/tag/%E8%BD%AF%E7%A1%AC%E4%BB%B6%E5%8D%8F%E5%90%8C%E8%AE%BE%E8%AE%A1/</link>
-      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/tag/%E8%BD%AF%E7%A1%AC%E4%BB%B6%E5%8D%8F%E5%90%8C%E8%AE%BE%E8%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/tag/%E8%BD%AF%E7%A1%AC%E4%BB%B6%E5%8D%8F%E5%90%8C%E8%AE%BE%E8%AE%A1/</link>
+      <atom:link href="https://shuxs23.github.io/THU-ACTS.github.io_common/zh/tag/%E8%BD%AF%E7%A1%AC%E4%BB%B6%E5%8D%8F%E5%90%8C%E8%AE%BE%E8%AE%A1/index.xml" rel="self" type="application/rss+xml" />
     <description>软硬件协同设计</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language><lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/media/icon_hu_b93b6deb77ad4b76.png</url>
+      <url>https://shuxs23.github.io/THU-ACTS.github.io_common/media/icon_hu_b93b6deb77ad4b76.png</url>
       <title>软硬件协同设计</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/tag/%E8%BD%AF%E7%A1%AC%E4%BB%B6%E5%8D%8F%E5%90%8C%E8%AE%BE%E8%AE%A1/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/tag/%E8%BD%AF%E7%A1%AC%E4%BB%B6%E5%8D%8F%E5%90%8C%E8%AE%BE%E8%AE%A1/</link>
     </image>
     
     <item>
       <title>Exploring Approximation and Dataflow Co-Optimization for Scalable Transformer Inference Architecture on the Edge (SOCC2024)</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/publication/socc2024/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/publication/socc2024/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/publication/socc2024/</guid>
+      <guid>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/publication/socc2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>同态计算加速</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/field/homomorphiccomputation/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/field/homomorphiccomputation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/field/homomorphiccomputation/</guid>
+      <guid>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/field/homomorphiccomputation/</guid>
       <description></description>
     </item>
     

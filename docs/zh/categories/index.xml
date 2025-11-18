@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | 清华大学先进计算技术与系统实验室</title>
-    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/categories/</link>
-      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/categories/</link>
+      <atom:link href="https://shuxs23.github.io/THU-ACTS.github.io_common/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language>
     <image>
-      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/media/icon_hu_b93b6deb77ad4b76.png</url>
+      <url>https://shuxs23.github.io/THU-ACTS.github.io_common/media/icon_hu_b93b6deb77ad4b76.png</url>
       <title>Categories</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/categories/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/categories/</link>
     </image>
     
   </channel>

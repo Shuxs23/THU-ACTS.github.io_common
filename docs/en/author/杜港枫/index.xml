@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>杜港枫 | THU-ACTS</title>
-    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/author/%E6%9D%9C%E6%B8%AF%E6%9E%AB/</link>
-      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/author/%E6%9D%9C%E6%B8%AF%E6%9E%AB/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shuxs23.github.io/THU-ACTS.github.io_common/en/author/%E6%9D%9C%E6%B8%AF%E6%9E%AB/</link>
+      <atom:link href="https://shuxs23.github.io/THU-ACTS.github.io_common/en/author/%E6%9D%9C%E6%B8%AF%E6%9E%AB/index.xml" rel="self" type="application/rss+xml" />
     <description>杜港枫</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/author/%E6%9D%9C%E6%B8%AF%E6%9E%AB/avatar_hu_61e331ed8f402139.jpg</url>
+      <url>https://shuxs23.github.io/THU-ACTS.github.io_common/en/author/%E6%9D%9C%E6%B8%AF%E6%9E%AB/avatar_hu_61e331ed8f402139.jpg</url>
       <title>杜港枫</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/author/%E6%9D%9C%E6%B8%AF%E6%9E%AB/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/en/author/%E6%9D%9C%E6%B8%AF%E6%9E%AB/</link>
     </image>
     
     <item>
       <title>同态计算加速</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/field/homomorphiccomputation/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/en/field/homomorphiccomputation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/field/homomorphiccomputation/</guid>
+      <guid>https://shuxs23.github.io/THU-ACTS.github.io_common/en/field/homomorphiccomputation/</guid>
       <description></description>
     </item>
     

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>段裕 | 清华大学先进计算技术与系统实验室</title>
-    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E6%AE%B5%E8%A3%95/</link>
-      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E6%AE%B5%E8%A3%95/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/author/%E6%AE%B5%E8%A3%95/</link>
+      <atom:link href="https://shuxs23.github.io/THU-ACTS.github.io_common/zh/author/%E6%AE%B5%E8%A3%95/index.xml" rel="self" type="application/rss+xml" />
     <description>段裕</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language>
     <image>
-      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E6%AE%B5%E8%A3%95/avatar_hu_afe763898d2da35f.jpg</url>
+      <url>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/author/%E6%AE%B5%E8%A3%95/avatar_hu_afe763898d2da35f.jpg</url>
       <title>段裕</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E6%AE%B5%E8%A3%95/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/author/%E6%AE%B5%E8%A3%95/</link>
     </image>
     
   </channel>

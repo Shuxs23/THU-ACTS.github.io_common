@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>研究领域 | THU-ACTS</title>
-    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/field/</link>
-      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/field/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shuxs23.github.io/THU-ACTS.github.io_common/en/field/</link>
+      <atom:link href="https://shuxs23.github.io/THU-ACTS.github.io_common/en/field/index.xml" rel="self" type="application/rss+xml" />
     <description>研究领域</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/media/icon_hu_b93b6deb77ad4b76.png</url>
+      <url>https://shuxs23.github.io/THU-ACTS.github.io_common/media/icon_hu_b93b6deb77ad4b76.png</url>
       <title>研究领域</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/field/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/en/field/</link>
     </image>
     
     <item>
       <title>先进计算</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/field/advanced_computing/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/en/field/advanced_computing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/field/advanced_computing/</guid>
+      <guid>https://shuxs23.github.io/THU-ACTS.github.io_common/en/field/advanced_computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>具身智能</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/field/embodied_intelligence/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/en/field/embodied_intelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/field/embodied_intelligence/</guid>
+      <guid>https://shuxs23.github.io/THU-ACTS.github.io_common/en/field/embodied_intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>同态计算加速</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/field/homomorphiccomputation/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/en/field/homomorphiccomputation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/field/homomorphiccomputation/</guid>
+      <guid>https://shuxs23.github.io/THU-ACTS.github.io_common/en/field/homomorphiccomputation/</guid>
       <description></description>
     </item>
     

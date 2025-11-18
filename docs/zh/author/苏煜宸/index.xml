@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>苏煜宸 | 清华大学先进计算技术与系统实验室</title>
-    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E8%8B%8F%E7%85%9C%E5%AE%B8/</link>
-      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E8%8B%8F%E7%85%9C%E5%AE%B8/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/author/%E8%8B%8F%E7%85%9C%E5%AE%B8/</link>
+      <atom:link href="https://shuxs23.github.io/THU-ACTS.github.io_common/zh/author/%E8%8B%8F%E7%85%9C%E5%AE%B8/index.xml" rel="self" type="application/rss+xml" />
     <description>苏煜宸</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/media/icon_hu_b93b6deb77ad4b76.png</url>
+      <url>https://shuxs23.github.io/THU-ACTS.github.io_common/media/icon_hu_b93b6deb77ad4b76.png</url>
       <title>苏煜宸</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/author/%E8%8B%8F%E7%85%9C%E5%AE%B8/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/author/%E8%8B%8F%E7%85%9C%E5%AE%B8/</link>
     </image>
     
     <item>
       <title>A Unified Microrobotic Visual-Perception Processor with 62.2-FPS/mm2 and 103-uJ/frame Navigation in 28nm (ASSCC2024)</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/publication/asscc2024/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/publication/asscc2024/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/zh/publication/asscc2024/</guid>
+      <guid>https://shuxs23.github.io/THU-ACTS.github.io_common/zh/publication/asscc2024/</guid>
       <description></description>
     </item>
     

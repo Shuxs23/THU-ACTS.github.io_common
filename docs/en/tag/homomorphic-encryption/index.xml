@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homomorphic Encryption | THU-ACTS</title>
-    <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/tag/homomorphic-encryption/</link>
-      <atom:link href="https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/tag/homomorphic-encryption/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shuxs23.github.io/THU-ACTS.github.io_common/en/tag/homomorphic-encryption/</link>
+      <atom:link href="https://shuxs23.github.io/THU-ACTS.github.io_common/en/tag/homomorphic-encryption/index.xml" rel="self" type="application/rss+xml" />
     <description>Homomorphic Encryption</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/media/icon_hu_b93b6deb77ad4b76.png</url>
+      <url>https://shuxs23.github.io/THU-ACTS.github.io_common/media/icon_hu_b93b6deb77ad4b76.png</url>
       <title>Homomorphic Encryption</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/tag/homomorphic-encryption/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/en/tag/homomorphic-encryption/</link>
     </image>
     
     <item>
       <title>An eDRAM-Based In-Situ-Computing Processor for Homomorphic Encryption Evaluation on the Edge (ESSERC2024)</title>
-      <link>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/publication/esserc2024/</link>
+      <link>https://shuxs23.github.io/THU-ACTS.github.io_common/en/publication/esserc2024/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://thu-ee-acts-lab.github.io/THU-ACTS.github.io/en/publication/esserc2024/</guid>
+      <guid>https://shuxs23.github.io/THU-ACTS.github.io_common/en/publication/esserc2024/</guid>
       <description></description>
     </item>
     
